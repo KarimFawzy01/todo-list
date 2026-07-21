@@ -50,12 +50,12 @@ It allows users to add, complete, and delete tasks, with data persistence using 
 
 ## 🔧 How to Run Locally
 
-1. Clone the repository:
+1.- [Live Demo على GitHub Pages](https://karimfawzy01.github.io/todo-list/)
+2. Clone the repository:
    ```bash
    git clone https://github.com/KarimFawzy01/todo-list.git
    ```
-2. Open `index.html` in your browser.
-3. Start managing your tasks!
+3. Open `index.html` in your browser.
 
 ---
 
